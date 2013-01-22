@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8"?>
+<rows>
+
+    <page>1</page>
+    <total>1</total>
+    <records>1</records>
+	
+	<row><cell>000</cell><cell>Rules Module</cell><cell></cell><cell>0</cell><cell>001</cell><cell>099</cell><cell>false</cell><cell>false</cell></row>
+	<row><cell>003</cell><cell>Game Rules</cell><cell>game_rules.php</cell><cell>1</cell><cell>012</cell><cell>015</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>002</cell><cell>Team Bidding Rules</cell><cell>team_bidding.php</cell><cell>1</cell><cell>002</cell><cell>005</cell><cell>true</cell><cell>true</cell></row>
+
+	<row><cell>400</cell><cell>Fixtures Module</cell><cell></cell><cell>0</cell><cell>401</cell><cell>499</cell><cell>false</cell><cell>false</cell></row>
+	<row><cell>402</cell><cell>Fixture</cell><cell>fixture.php</cell><cell>1</cell><cell>402</cell><cell>405</cell><cell>true</cell><cell>true</cell></row>
+
+	<row><cell>500</cell><cell>Score Module</cell><cell></cell><cell>0</cell><cell>501</cell><cell>599</cell><cell>false</cell><cell>false</cell></row>
+	<row><cell>502</cell><cell>Batting Score card</cell><cell>batting_score.php</cell><cell>1</cell><cell>502</cell><cell>505</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>503</cell><cell>Bowling Score card</cell><cell>bowling_score.php</cell><cell>1</cell><cell>512</cell><cell>515</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>504</cell><cell>Fielding Score card</cell><cell>fielding_score.php</cell><cell>1</cell><cell>522</cell><cell>525</cell><cell>true</cell><cell>true</cell></row>
+
+	<row><cell>300</cell><cell>Team Module</cell><cell></cell><cell>0</cell><cell>301</cell><cell>399</cell><cell>false</cell><cell>false</cell></row>
+	<row><cell>303</cell><cell>Team Owner</cell><cell>team_owner.php</cell><cell>1</cell><cell>312</cell><cell>315</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>302</cell><cell>Team Points</cell><cell>team_point.php</cell><cell>1</cell><cell>302</cell><cell>305</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>304</cell><cell>Team Selection</cell><cell>team.php</cell><cell>1</cell><cell>322</cell><cell>325</cell><cell>true</cell><cell>true</cell></row>
+
+	<row><cell>200</cell><cell>Statistics Module</cell><cell></cell><cell>0</cell><cell>201</cell><cell>299</cell><cell>false</cell><cell>false</cell></row>
+	<row><cell>202</cell><cell>Skill and Base Price Statistics</cell><cell>player_type.php</cell><cell>1</cell><cell>202</cell><cell>205</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>203</cell><cell>Batting Statistics</cell><cell>batting_statistics.php</cell><cell>1</cell><cell>212</cell><cell>215</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>204</cell><cell>Bowling Statistics</cell><cell>bowling_statistics.php</cell><cell>1</cell><cell>222</cell><cell>225</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>205</cell><cell>Fielding Statistics</cell><cell>fielding_statistics.php</cell><cell>1</cell><cell>232</cell><cell>235</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>206</cell><cell>Score Statistics</cell><cell>score_statistics.php</cell><cell>1</cell><cell>242</cell><cell>245</cell><cell>true</cell><cell>true</cell></row>
+
+	<row><cell>100</cell><cell>Registration Module</cell><cell></cell><cell>0</cell><cell>101</cell><cell>199</cell><cell>false</cell><cell>false</cell></row>
+	<row><cell>102</cell><cell>Player Registration</cell><cell>player_register.php</cell><cell>1</cell><cell>102</cell><cell>105</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>103</cell><cell>Umpire Registration</cell><cell>umpire_register.php</cell><cell>1</cell><cell>106</cell><cell>110</cell><cell>true</cell><cell>true</cell></row>
+
+</rows>
